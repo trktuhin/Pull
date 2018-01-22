@@ -1,2 +1,4 @@
 Pizza,Doi,Burger,Chap
-Biriyani, Khichuri
+Biriyani, 
+vuna Khichuri
+chamusa.
