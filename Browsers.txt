@@ -1,1 +1,1 @@
-Mozila,chrome,opera,safari,baidu,uc
+Mozila,Uc-browser,chrome,opera,safari,baidu,uc
