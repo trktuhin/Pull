@@ -1,3 +1,5 @@
 Pizza,Doi,Burger,Chap
-Biriyani, Khichuri
 Chocolate
+Biriyani, 
+vuna Khichuri
+chamusa.
