@@ -1,2 +1,2 @@
-Pizza,Doi,Burgar,Chap
+Pizza,Doi,Burger,Chap
 Biriyani, Khichuri
